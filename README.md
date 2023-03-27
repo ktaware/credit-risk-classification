@@ -23,7 +23,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
  * Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
 
-# Note A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.
+Note A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.
 
  * Check the balance of the labels variable (y) by using the value_counts function.
 
